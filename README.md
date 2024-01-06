@@ -3,7 +3,7 @@
   
 ## Hey there!
 ![](https://komarev.com/ghpvc/?username=c-susan&label=visitors&color=d07e85)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=cf8566)](www.linkedin.com/in/susan-chen-b1a0561b7)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=cf8566)](https://www.linkedin.com/in/susan-chen-b1a0561b7/)
 
 </div>
 
