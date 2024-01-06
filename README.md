@@ -30,10 +30,10 @@
 
 ## 📌 I'm currently working on: 
 <div style="display: flex;">
-<a href="https://github.com/c-susan/flask_e2e_project">
+<a href="https://github.com/c-susan/flask_e2e_project" target="_blank">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=c-susan&repo=flask_e2e_project"/>
 </a>
-<a href="https://github.com/c-susan/sql-practice">
+<a href="https://github.com/c-susan/sql-practice" target="_blank">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=c-susan&repo=sql-practice"/>
 </a>
 </div>
