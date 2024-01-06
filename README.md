@@ -28,13 +28,13 @@
 
 <br>
 
-## 📌 I am currently working on: 
+## 📌 I'm currently working on: 
 <div style="display: flex;">
-<a href="[https://github.com/c-susan/flask_e2e_project](https://github.com/c-susan/flask_e2e_project)">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=c-susan&repo=flask_e2e_project" />
+<a href="https://github.com/c-susan/flask_e2e_project">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=c-susan&repo=flask_e2e_project"/>
 </a>
-<a href="[https://github.com/c-susan/sql-practice](https://github.com/c-susan/sql-practice)">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=c-susan&repo=sql-practice" />
+<a href="https://github.com/c-susan/sql-practice">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=c-susan&repo=sql-practice"/>
 </a>
 </div>
 
@@ -45,4 +45,3 @@
 ![Susan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-susan&show_icons=true&theme=tokyonight&rank_icon=github)
 
 ---
-
