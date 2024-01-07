@@ -1,13 +1,15 @@
-
 <div align='center'>
   
-## Hey there!
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Susan%20Chen&fontAlign=75&fontAlignY=35)
+
+## Hey there, I'm Susan!
 ![](https://komarev.com/ghpvc/?username=c-susan&label=visitors&color=d07e85)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=cf8566)](https://www.linkedin.com/in/susan-chen-b1a0561b7/)
 
 </div>
 
-🎓 My name is Susan Chen and I'm currently a M.S. Applied Health Informatics student at Stony Brook University. 
+Here's a little about me: 
+- 🎓 I'm currently a M.S. Applied Health Informatics student at Stony Brook University. 
 - 🌱 I’m currently learning: Python, R, SQL, Azure, GCP, Tableau, HTML-CSS
 - ⭐️ I'm interested in: data analysis/data science, data visualization, and database management
 - 📫 You can find me on: [LinkedIn](www.linkedin.com/in/susan-chen-b1a0561b7)
@@ -28,7 +30,7 @@
 
 <br>
 
-## 📌 I'm currently working on: 
+## 📌 What I'm currently working on: 
 <div style="display: flex;">
 <a href="https://github.com/c-susan/flask_e2e_project" target="_blank">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=c-susan&repo=flask_e2e_project"/>
@@ -45,3 +47,8 @@
 ![Susan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-susan&show_icons=true&theme=tokyonight&rank_icon=github)
 
 ---
+<div align='center'>
+  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
