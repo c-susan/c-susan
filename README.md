@@ -1,6 +1,6 @@
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Susan%20Chen&fontAlign=75&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Susan%20Chen&fontColor=FFFFFF&fontAlign=75&fontAlignY=35)
 
 ## Hey there, I'm Susan!
 ![](https://komarev.com/ghpvc/?username=c-susan&label=visitors&color=d07e85)
